@@ -12,3 +12,8 @@ This page is under construction, but in the coming weeks expect to see most (if 
 * Other things as they come up. Clearly, this is super thought out and well planned
 
 
+## Quick Links
+* [[Legal Disclaimer]]
+* [[Daggerheart Quick References (beta 1.5)]]
+
+
