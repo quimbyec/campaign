@@ -1,7 +1,8 @@
 ---
 title: 
 draft: false
-tags:
+tags: 
+date: 2024-07-18
 ---
 ## Characters
 1. [[Untitled Character]]
